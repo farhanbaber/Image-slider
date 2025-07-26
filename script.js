@@ -5,8 +5,8 @@ showSlide(currentIndex)
 function left() {
 
     currentIndex  -- ;
-    if (currentIndex < 10) {
-        currentIndex = 1
+    if (currentIndex < 1) {
+        currentIndex = 10
         
     }
     showSlide(currentIndex)
@@ -38,7 +38,7 @@ function showSlide(Index) {
     
     const img9 = document.getElementById("img9")
     
-    const img10 = document.getElementById("img9")
+    const img10 = document.getElementById("img10")
 
 
     
@@ -88,3 +88,4 @@ function showSlide(Index) {
 
     
 }
+
