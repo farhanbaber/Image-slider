@@ -1,0 +1,27 @@
+|| Image Slider ||
+
+A simple and responsive Image Slider (Carousel) built using HTML | CSS | JavaScript.
+
+|| Features ||
+
+- Auto slide with timer
+- Manual navigation with next/prev buttons
+- Responsive design
+- Smooth transitions
+- Works on all modern browsers
+
+|| Getting Started ||
+
+|| Prerequisites
+
+To run this project, you'll need:
+
+- A modern web browser
+- (Optional) A local server like VS Code Live Server
+
+ || Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/image-slider.git
